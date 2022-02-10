@@ -9,6 +9,7 @@ const list = [
   { song: "Redbone", artist: "Childish Gambino", rating: 10, isActive: true },
   { song: "Enemy", artist: "Imagine Dragons", rating: 10, isActive: true },
   { song: "In my life", artist: "The Beatles", rating: 8, isActive: false },
+  { song: "The Humpty Dance", artist: "Digital Underground", rating: 10, isActive: false },
   {
     song: "Tell it to my heart",
     artist: "Hozier",
