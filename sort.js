@@ -61,7 +61,7 @@ for (let i = 0; i < list.length; i++) {
 //console.log(list)
 
 //Sorting Strings
-list.sort((a,b)=>a.song.toLowerCase()>b.song.toLowerCase()?1:-1);
+list.sort((a,b)=>a.song.toLowerCase()<b.song.toLowerCase()?1:-1);
 console.log(list)
 
 
