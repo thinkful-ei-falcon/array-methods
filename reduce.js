@@ -3,7 +3,7 @@ const list = [
     { song: "Ascension", artist: "Maxwell", rating: 10, isActive: true },
     { song: "As", artist: "Stevie Wonder", rating: 10, isActive: true },
     { song: "Rap God", artist: "Eminem", rating: 10, isActive: true },
-    { song: "Friday", artist: "Rebecca Black", rating: 1, isActive: true },
+    { song: "Friday", artist: "Rebecca Black", rating: 10   , isActive: true },
     { song: "GOAT", artist: "Polyphia", rating: 10, isActive: true },
     { song: "Just Fine", artist: "Mary J. Blige", rating: 10, isActive: true },
     { song: "Redbone", artist: "Childish Gambino", rating: 10, isActive: true },
